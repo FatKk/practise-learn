@@ -1,1 +1,3 @@
 import math
+a = sqar(4)
+print(a)
